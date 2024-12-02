@@ -24,7 +24,7 @@ A 2-bit ALU can perform several fundamental operations on two 2-bit inputs. The 
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/d-jaat/2-bit-alu.git
    cd Design-and-Simulate-2-bit-ALU-using-Logisim
    ```
 
